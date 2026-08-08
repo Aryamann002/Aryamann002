@@ -17,6 +17,6 @@
 
 
 ---
-[![]![](https://komarev.com/ghpvc/?Aryamann002)
+![](https://komarev.com/ghpvc/?Aryamann002)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
